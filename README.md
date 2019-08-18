@@ -1,5 +1,5 @@
 # The second ML Task
-This the fork of my "The_first_ML_Task"(https://github.com/bormaley999/The_first_ML_Task) but with different currency (JPY).
+This the fork of my "The_first_ML_Task"(https://github.com/bormaley999/The_first_ML_Task) but with different currency (JPY) and different time frame (01.01.16 and 01.08.2019)
 
 The .csv file is the source data (dataset) I used to build the model. The currency is JPY, time period presented in the report is between 01.01.16 and 01.08.2019. The ML library is scikit-learn. I used Linear Regression function "
 
