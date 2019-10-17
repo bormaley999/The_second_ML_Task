@@ -10,3 +10,6 @@ class sklearn.linear_model.LinearRegression(
   n_jobs=None
 ).
 Specifically, this example: reg = LinearRegression().fit(X, y).
+
+# Upd as of 17.10.2019
+Files having .ipynb extension are fail to open via GitHub. This is internal GitHub error. Kindly, take this into consideration while reviewing my Repo. I will update this post after the error would be fixed.
