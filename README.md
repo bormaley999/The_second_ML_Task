@@ -13,3 +13,6 @@ Specifically, this example: reg = LinearRegression().fit(X, y).
 
 # Upd as of 17.10.2019
 Files having .ipynb extension are fail to open via GitHub. This is internal GitHub error. Kindly, take this into consideration while reviewing my Repo. I will update this post after the error would be fixed.
+
+# Upd as of 20.10.2019
+The error has been fixed. However, it is possible that it could rise again later.
